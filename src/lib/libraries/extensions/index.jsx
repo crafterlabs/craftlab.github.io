@@ -414,6 +414,15 @@ const menuItems = [
         featured: true
     },
     {
+        name: 'Files Expanded',
+        extensionId: 'https://raw.githubusercontent.com/SharkPool-SP/SharkPools-Extensions/main/extension-code/Files-Expanded.js',
+        iconURL: 'https://raw.githubusercontent.com/SharkPool-SP/SharkPools-Extensions/main/extension-thumbs/Files-Expanded.svg',
+        tags: ['categoryexpansion'],
+        description: 'Read, upload, and download files.',
+        extDeveloper: 'sharkpools',
+        featured: true
+    },
+    {
         name: 'Pen+',
         extensionId: 'https://extensions.penguinmod.com/extensions/ObviousAlexC/PenPlus.js',
         tags: ['categoryexpansion'],
